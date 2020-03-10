@@ -1,0 +1,34 @@
+@import url("~leaflet/dist/leaflet.css");
+@import url("~react-leaflet-markercluster/dist/styles.css");
+@import url("~antd/dist/antd.css");
+
+.map {
+  height: 100%;
+  width: 100%;
+  min-width: 399px;
+}
+
+.geojson-toggle, .wind-toggle {
+  position: fixed;
+  right: 20px;
+  z-index: 1000;
+  margin-top: 20px;
+  background: white;
+  font-size: 14px;
+  padding: 4px;
+  border-radius: 3px;
+}
+
+.top40 {
+  top: 40px;
+}
+
+.top70 {
+  top: 70px;
+}
+
+#components-layout-demo-side .logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}

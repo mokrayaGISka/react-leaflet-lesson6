@@ -1,0 +1,36 @@
+body,
+#root {
+  height: 100vh;
+  width: 100vw;
+}
+
+.main {
+  height: 100%;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  background-color: #ffffff;
+  font-size: 14px;
+  -webkit-align-content: start;
+          align-content: start;
+}
+
+.main-app {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-flex: 1 1;
+          flex: 1 1;
+}
+
+.main-map {
+  -webkit-flex: 1 1;
+  flex: 1 1;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+}
