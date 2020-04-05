@@ -1,4 +1,4 @@
-# react-leaflet-lesson1
+# react-leaflet-lesson6
 Create react leaflet web application  
 
 JS application code written using react redux and react-leaflet    
