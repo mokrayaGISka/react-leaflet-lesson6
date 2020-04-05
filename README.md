@@ -4,7 +4,7 @@ Create react leaflet web application
 JS application code written using react redux and react-leaflet    
 
 ## Demo: 
-[![Demo](https://img.youtube.com/vi/cxx8WrpU9aE/0.jpg)](https://www.youtube.com/watch?v=cxx8WrpU9aE)
+[![Demo](https://img.youtube.com/vi/aolIlwKtt4A/0.jpg)](https://www.youtube.com/watch?v=aolIlwKtt4A)
 
 ## Useful Links:  
 Redux - https://redux.js.org/basics/usage-with-react  
