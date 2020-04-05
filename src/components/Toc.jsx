@@ -58,8 +58,8 @@ const mapStateToProps = (state) => {
   };
 };
 
-const matcDispatchToProps = (dispatch) => {
+const matchDispatchToProps = (dispatch) => {
   return bindActionCreators({switchLayer: toggleLayer}, dispatch);
 };
 
-export default connect(mapStateToProps, matcDispatchToProps)(Toc);
+export default connect(mapStateToProps, matchDispatchToProps)(Toc);
